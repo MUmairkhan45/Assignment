@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.main{
+    background-color: lightblue;
+    height: 100vh;
+    margin: 0;
+    padding: 25px;
+}
+form{
+    background-color: white;
+    padding: 30px 15px;
+    margin: 10px;
+    box-shadow: 0 10px 15px white;
+    width: 90%;
+    max-width: 350px;
+    margin: auto;
+    border-radius: 5px;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    border-bottom:2px solid gray;
+    display: block;
+    width: 90%;
+
+}
+button{
+    padding: ;
+    margin: 15px 5px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 90%;
+}
+
